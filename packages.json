@@ -12,6 +12,10 @@
         "url": "https://github.com/rstudio/pointblank"
     },
     {
+        "package": "openalexR",
+        "url": "https://github.com/ropensci/openalexR"
+    },
+    {
         "package": "ggcolormeter",
         "url": "https://github.com/yjunechoe/ggcolormeter"
     },
