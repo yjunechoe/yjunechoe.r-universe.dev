@@ -8,7 +8,19 @@
         "url": "https://github.com/yjunechoe/jlmerclusterperm"
     },
     {
+        "package": "pointblank",
+        "url": "https://github.com/rstudio/pointblank"
+    },
+    {
         "package": "ggcolormeter",
         "url": "https://github.com/yjunechoe/ggcolormeter"
+    },
+    {
+        "package": "jlme",
+        "url": "https://github.com/yjunechoe/jlme"
+    },
+    {
+        "package": "JuliaFormulae",
+        "url": "https://github.com/yjunechoe/JuliaFormulae"
     }
 ]
